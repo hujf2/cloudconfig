@@ -1,1 +1,2 @@
 profile: my-springcloud-default-profile
+profile-dev: my-springcloud-default-profile
